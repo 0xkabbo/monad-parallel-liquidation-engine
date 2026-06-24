@@ -1,0 +1,10 @@
+{
+  "name": "monad-parallel-liquidation-engine",
+  "version": "1.0.0",
+  "description": "High-velocity parallel liquidation tracker and execution suite for Monad DeFi",
+  "main": "runParallelLiquidations.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
